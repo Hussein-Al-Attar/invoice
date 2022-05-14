@@ -1,0 +1,3 @@
+C:\Users\96478\Documents\Visual Studio 2012\Projects\Invoice\add_table\bin\Debug\add_table.exe.config
+C:\Users\96478\Documents\Visual Studio 2012\Projects\Invoice\add_table\obj\Debug\add_table.exe
+C:\Users\96478\Documents\Visual Studio 2012\Projects\Invoice\add_table\obj\Debug\add_table.pdb

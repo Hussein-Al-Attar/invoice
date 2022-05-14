@@ -1,0 +1,15 @@
+C:\Users\96478\Documents\Visual Studio 2012\Projects\Invoice\add_table\bin\Debug\price_pieces.mdf
+C:\Users\96478\Documents\Visual Studio 2012\Projects\Invoice\add_table\bin\Debug\price_pieces_log.ldf
+C:\Users\96478\Documents\Visual Studio 2012\Projects\Invoice\add_table\bin\Debug\add_table.exe.config
+C:\Users\96478\Documents\Visual Studio 2012\Projects\Invoice\add_table\bin\Debug\add_table.exe.manifest
+C:\Users\96478\Documents\Visual Studio 2012\Projects\Invoice\add_table\bin\Debug\add_table.application
+C:\Users\96478\Documents\Visual Studio 2012\Projects\Invoice\add_table\bin\Debug\add_table.exe
+C:\Users\96478\Documents\Visual Studio 2012\Projects\Invoice\add_table\bin\Debug\add_table.pdb
+C:\Users\96478\Documents\Visual Studio 2012\Projects\Invoice\add_table\obj\Debug\invoice.FormInvoice.resources
+C:\Users\96478\Documents\Visual Studio 2012\Projects\Invoice\add_table\obj\Debug\invoice.FormMain.resources
+C:\Users\96478\Documents\Visual Studio 2012\Projects\Invoice\add_table\obj\Debug\invoice.Properties.Resources.resources
+C:\Users\96478\Documents\Visual Studio 2012\Projects\Invoice\add_table\obj\Debug\invoice.csproj.GenerateResource.Cache
+C:\Users\96478\Documents\Visual Studio 2012\Projects\Invoice\add_table\obj\Debug\add_table.exe.manifest
+C:\Users\96478\Documents\Visual Studio 2012\Projects\Invoice\add_table\obj\Debug\add_table.application
+C:\Users\96478\Documents\Visual Studio 2012\Projects\Invoice\add_table\obj\Debug\add_table.exe
+C:\Users\96478\Documents\Visual Studio 2012\Projects\Invoice\add_table\obj\Debug\add_table.pdb
